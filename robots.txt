@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-a8taz7.pulaucuanwin.sbs/sitemap.xml
